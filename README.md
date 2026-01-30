@@ -1,5 +1,7 @@
 👩🏻‍💻 Kaylanne Nogueira
-Desenvolvedora Full Stack | Especialista em IA, Automação e Agentes
+<div align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack%20%7C%20Especialista%20em%20IA%2C%20Automa%C3%A7%C3%A3o%20e%20Agentes-24292e?style=flat&logoColor=white" alt="Subtitulo" />
+</div>
 <p align="left"> Sou desenvolvedora full stack com foco em Inteligência Artificial aplicada, automação e integração entre sistemas. Atuo na criação de agentes inteligentes com LLMs (OpenAI), construção de APIs e desenvolvimento de aplicações web usando React, TypeScript e Node.js. Trabalho também com automações low-code/no-code em N8n, Make e Coda, estruturando pipelines robustos baseados em eventos, APIs REST e webhooks. Minha experiência inclui engenharia de prompt, desenvolvimento de fluxos conversacionais e implementação de soluções com RAG em Python, alinhando software, automação e IA para entregar sistemas escaláveis, confiáveis e orientados à eficiência operacional.
 
 </p> <p align="left"> <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
