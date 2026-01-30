@@ -39,8 +39,10 @@
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" />
-  <img src="https://icons8.com/icon/Nts60kQIvGqe/chatgpt" width="40" />
+  <img src="https://cdn.simpleicons.org/openai" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+
+</div>
 </div>
 <br>
 
