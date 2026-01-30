@@ -2,12 +2,12 @@
 <div>
   <img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack%20%7C%20Especialista%20em%20IA%2C%20Automa%C3%A7%C3%A3o%20e%20Agentes-333333?style=flat&labelColor=333333&color=333333" alt="Subtitulo" />
 </div>
-<p align="left"> Sou desenvolvedora full stack com foco em Inteligência Artificial aplicada, automação e integração entre sistemas. Atuo na criação de agentes inteligentes com LLMs (OpenAI), construção de APIs e desenvolvimento de aplicações web usando React, TypeScript e Node.js. Trabalho também com automações low-code/no-code em N8n, Make e Coda, estruturando pipelines robustos baseados em eventos, APIs REST e webhooks. Minha experiência inclui engenharia de prompt, desenvolvimento de fluxos conversacionais e implementação de soluções com RAG em Python, alinhando software, automação e IA para entregar sistemas escaláveis, confiáveis e orientados à eficiência operacional.
-
+<p align="left"> Minha trajetória na área começou no ensino médio técnico, quando dei meus primeiros passos como desenvolvedora front-end. Com o tempo, fui ampliando meu escopo, migrando para o desenvolvimento full stack. Hoje, sigo em uma curva de especialização ainda maior, direcionando meu foco para Inteligência Artificial aplicada, automação e integração entre sistemas.
+Atuo criando agentes inteligentes com LLMs, desenvolvendo APIs e aplicações web em React, TypeScript e Node.js. Também trabalho com automações em N8n, Make e Coda, estruturando pipelines baseados em eventos, APIs REST e webhooks. Além disso, tenho experiência com engenharia de prompt, fluxos conversacionais e soluções com RAG em Python sempre buscando entregar sistemas funcionais, escaláveis e orientados à eficiência.
 </p> <p align="left"> <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 <h2>🚀 Tecnologias e Ferramentas</h2>
 
-### 🧠 Linguagens
+### Linguagens
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -17,7 +17,7 @@
 </div>
 <br>
 
-### 🎨 Front-end
+### Front-end
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -27,7 +27,7 @@
 </div>
 <br>
 
-### ⚙️ Back-end & Arquitetura
+### Back-end & Arquitetura
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
@@ -35,7 +35,7 @@
 </div>
 <br>
 
-### 🤖 IA, Automação & Pipelines
+### IA, Automação & Pipelines
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -46,7 +46,7 @@
 </div>
 <br>
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 <br>
 
 <div align="left">
@@ -56,7 +56,7 @@
 </div>
 <br>
 
-### ⚙️ Ferramentas e stacks complementares:
+### Ferramentas e stacks complementares:
 <br>
 N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangGraph • Pydantic
 
@@ -65,7 +65,7 @@ N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangG
 
 ---
 
-## 📊 Estatísticas
+<h2>📊 Estatísticas</h2>
 
 <div align="left">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
