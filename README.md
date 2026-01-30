@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" />
 </div>
 <br>
 
@@ -46,8 +45,10 @@
 </div>
 <br>
 
-**Ferramentas e stacks complementares:**
+### ⚙️ Ferramentas e stacks complementares:**
 <br>
+<div align="left">
+  <img src="https://brandfetch.com/n8n.io?view=library&library=default&collection=logos&asset=idMNegHQvp&utm_source=https%253A%252F%252Fbrandfetch.com%252Fn8n.io&utm_medium=copyAction&utm_campaign=brandPageReferral" width="40" />
 N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangGraph • Pydantic
 
 <br>
