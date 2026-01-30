@@ -3,7 +3,7 @@ Desenvolvedora Full Stack | Especialista em IA, Automação e Agentes
 <p align="left"> Sou desenvolvedora full stack com foco em Inteligência Artificial aplicada, automação e integração entre sistemas. Atuo na criação de agentes inteligentes com LLMs (OpenAI), construção de APIs e desenvolvimento de aplicações web usando React, TypeScript e Node.js. Trabalho também com automações low-code/no-code em N8n, Make e Coda, estruturando pipelines robustos baseados em eventos, APIs REST e webhooks. Minha experiência inclui engenharia de prompt, desenvolvimento de fluxos conversacionais e implementação de soluções com RAG em Python, alinhando software, automação e IA para entregar sistemas escaláveis, confiáveis e orientados à eficiência operacional.
 
 </p> <p align="left"> <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-## 🚀 Tecnologias e Ferramentas
+<h1>🚀 Tecnologias e Ferramentas</h1>
 
 ### 🧠 Linguagens
 <br>
@@ -55,6 +55,6 @@ MySQL • MongoDB • PostgreSQL • Redis
 ## 📊 Estatísticas
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
 </div>
