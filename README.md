@@ -1,32 +1,82 @@
-👩🏻‍💻 Kaylanne Nogueira
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
+<h1 align="center">👩🏻‍💻 Kaylanne Nogueira</h1>
+
+<h3 align="center">
 Desenvolvedora Full Stack | Especialista em IA, Automação e Agentes
+</h3>
 
-Sou desenvolvedora full stack com foco em soluções inteligentes. Atuo no desenvolvimento de agentes baseados em LLMs (OpenAI), integrações com APIs, pipelines automatizados e aplicações web modernas. Minha trajetória combina engenharia de software, automação low-code/no-code (N8n, Make, Coda), front-end e back-end com JavaScript/TypeScript e Python, além de experiência prática na criação de fluxos digitais, bots inteligentes e sistemas cloud native.
-
+<p align="center">
+Sou desenvolvedora full stack com foco em soluções inteligentes. Atuo no desenvolvimento de agentes baseados em LLMs (OpenAI), integrações com APIs, pipelines automatizados e aplicações web modernas.
+<br/><br/>
+Minha trajetória combina engenharia de software, automação low-code/no-code (N8n, Make, Coda), front-end e back-end com JavaScript/TypeScript e Python, além de experiência prática na criação de fluxos digitais, bots inteligentes e sistemas cloud native.
+<br/><br/>
 Busco construir soluções escaláveis, eficientes e orientadas à automação, unindo IA aplicada, boas práticas de engenharia e arquitetura de software.
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🚀 Tecnologias e Ferramentas
-Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" />
-Front-end
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
-Back-end / Arquitetura
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" />
-IA, Automação e Pipelines
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/openai.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30px" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
-Ferramentas: N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangGraph • Pydantic
+---
 
-Bancos de Dados
+## 🚀 Tecnologias e Ferramentas
+
+### 🧠 Linguagens
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+</div>
+
+### 🎨 Front-end
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+</div>
+
+### ⚙️ Back-end & Arquitetura
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+</div>
+
+### 🤖 IA, Automação & Pipelines
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/openai.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" />
+</div>
+
+**Ferramentas:**  
+N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangGraph • Pydantic
+
+---
+
+## 🗄️ Bancos de Dados
 
 MySQL • MongoDB • PostgreSQL • Redis
 
-📊 Estatísticas do GitHub
-<p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br" />
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+## 📊 Estatísticas do GitHub
 
-</p> <br clear="both"/>
-
+<div align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&langs_count=8"
+  />
+</div>
