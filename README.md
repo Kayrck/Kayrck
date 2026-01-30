@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
 </div>
 <br>
 
@@ -45,16 +46,22 @@
 </div>
 <br>
 
-### ⚙️ Ferramentas e stacks complementares:**
+### 🗄️ Bancos de Dados
 <br>
+
 <div align="left">
-  <img src="https://brandfetch.com/n8n.io?view=library&library=default&collection=logos&asset=idMNegHQvp&utm_source=https%253A%252F%252Fbrandfetch.com%252Fn8n.io&utm_medium=copyAction&utm_campaign=brandPageReferral" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" />
+</div>
+<br>
+
+### ⚙️ Ferramentas e stacks complementares:
+<br>
 N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangGraph • Pydantic
 
 <br>
 
-### 🗄️ Bancos de Dados
-MySQL • MongoDB • PostgreSQL • Redis
 
 ---
 
