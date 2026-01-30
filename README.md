@@ -61,5 +61,5 @@ MySQL • MongoDB • PostgreSQL • Redis
 <div align="left">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
   
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+  <img height="210" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kayrck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
 </div>
