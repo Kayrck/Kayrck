@@ -1,11 +1,11 @@
-<h1>👩🏻‍💻 Kaylanne Nogueira </h1>
+<h1> Kaylanne Nogueira </h1>
 <div>
   <img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack%20%7C%20Especialista%20em%20IA%2C%20Automa%C3%A7%C3%A3o%20e%20Agentes-333333?style=flat&labelColor=333333&color=333333" alt="Subtitulo" />
 </div>
 <p align="left"> Minha trajetória na área começou no ensino médio técnico, quando dei meus primeiros passos como desenvolvedora front-end. Com o tempo, fui ampliando meu escopo, migrando para o desenvolvimento full stack. Hoje, sigo em uma curva de especialização ainda maior, direcionando meu foco para Inteligência Artificial aplicada, automação e integração entre sistemas.
 Atuo criando agentes inteligentes com LLMs, desenvolvendo APIs e aplicações web em React, TypeScript e Node.js. Também trabalho com automações em N8n, Make e Coda, estruturando pipelines baseados em eventos, APIs REST e webhooks. Além disso, tenho experiência com engenharia de prompt, fluxos conversacionais e soluções com RAG em Python sempre buscando entregar sistemas funcionais, escaláveis e orientados à eficiência.
 </p> <p align="left"> <a href="https://www.linkedin.com/in/kaylanne-nogueira-6936a6216/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-<h2>🚀 Tecnologias e Ferramentas</h2>
+<h2>Tecnologias e Ferramentas</h2>
 
 ### Linguagens
 <br>
@@ -64,7 +64,7 @@ N8n • Make • Coda • Webhooks • APIs REST • RAG • LangChain • LangG
 
 ---
 
-<h2>📊 Estatísticas</h2>
+<h2>Estatísticas</h2>
 
 <div align="left">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Kayrck&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" />
